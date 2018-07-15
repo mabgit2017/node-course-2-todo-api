@@ -5,6 +5,10 @@ To connect using a driver via the standard MongoDB URI (what's this?):
 
 
 mongodb://<dbuser>:<dbpassword>@ds239071.mlab.com:39071/todoapp-mbillot19
-mongodb://Mariebill:llibeiraM:3@ds239071.mlab.com:39071/todoapp-mbillot19
+mongodb://Mariebill:333billbill@ds239071.mlab.com:39071/todoapp-mbillot19
 mongo ds239071.mlab.com:39071/todoapp-mbillot19 -u <dbuser> -p <dbpassword>
+mongo ds239071.mlab.com:39071/todoapp-mbillot19 -u Mariebill -p 333billbill
 mongo ds239071.mlab.com:39071/todoapp-mbillot19 -u Mariebill -p llibeiraM:3
+
+
+https://fatidique-madame-82995.herokuapp.com/todos
